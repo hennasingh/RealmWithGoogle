@@ -5,7 +5,7 @@ import io.realm.Realm
 import io.realm.mongodb.App
 import io.realm.mongodb.AppConfiguration
 
-const val appId ="realmsignin-abyof"
+const val appId ="realmsignin-abyof" //Enter your AppID here
 lateinit var app: App
 
 class RealmApp: Application() {
