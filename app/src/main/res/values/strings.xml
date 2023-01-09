@@ -2,6 +2,6 @@
     <string name="app_name">RealmWithGoogle</string>
     <string name="server_client_id">445615610060-3im7md8t62tuijd1b10b3bf1jlql5gvh.apps.googleusercontent.com
 </string>
-    <string name="header">MongoDB Ream - Authentication by Google Sign In</string>
-    <string name="successful_login">Successfully logged In to MongoDB Realm</string>
+    <string name="header">Realm - Authentication by Google Sign In</string>
+    <string name="successful_login">Successfully logged In to Atlas Backend</string>
 </resources>
